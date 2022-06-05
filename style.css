@@ -344,40 +344,45 @@ html {
     box-sizing: border-box;
 }
 
-/* Clear fix hack */
-.clearfix:after {
-    content: ".";
-    display: block;
-    clear: both;
-    visibility: hidden;
-    line-height: 0;
-    height: 0;
-}
-
-.clear {
-   clear: both;
-}
-
 /******************************************
 /* BASE STYLES
 /*******************************************/
 
-
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+a {
+    color: whitesmoke;
+    font-weight: bold;
+    text-decoration: none;
+}
+h1, h2 {
+    font-weight: bold;
+}
 
 /******************************************
 /* LAYOUT
 /*******************************************/
-main > section {
-    float: left;
-    max-width: 30%;
-    background: lightgrey;
-}
-section + section{
-     float: left;
-     max-width: 70%;
-     background: darkgray;
- }
+main{
+    display: flex;
+    font-size: 12px;
 
+}
+section {
+    flex-direction: row;
+    max-width: auto;
+}
+main > section {
+    background: #c53a51;
+    padding: 0 10px;
+    color: white;
+}
+section + section {
+    background: #D16174;
+    padding: 0 20px;
+    color: rgb(32, 39, 39);
+    font-size: 1.3em;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
