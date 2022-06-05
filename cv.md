@@ -8,7 +8,7 @@
 
 **E-mail**: this.is.serikova.ao@gmail.com
 
-## Abou
+## About
 I am an undergraduate computer science student with more than six years of work experience in finance. I am a strong believer in constant learning and self-improvement. My ultimate goal is to find an occupation which will allow me to grow both as a person and as a professional.
 
 
