@@ -128,14 +128,14 @@ footer {
 }
 
 footer img {
-  padding: 0 5px;
+  padding: 0 15px;
 }
 .icon {
   max-width: 35px;
   border: 0;
 }
 .rsSchool {
-  max-width: 80px;
+ height: 35px;
 }
 
 footer span {
@@ -144,7 +144,7 @@ footer span {
 }
 
 pre {
-  background: #d0a2a3;
+  background: #dc838c;
   border: 1px solid white;
 }
 span {
