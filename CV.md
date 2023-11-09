@@ -75,4 +75,4 @@ public class Fibonacci
 
 **MTUCI**, 2023
 
-Bachelor in information systems and technologies
+Information systems and technologies (Bachelor’s degree)
