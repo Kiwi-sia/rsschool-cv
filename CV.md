@@ -2,7 +2,7 @@
 
 ![photo](https://sun9-55.userapi.com/impf/knTdA2HLgse97l5S-a5V_8PfnqHfHdvINpD_PQ/LsezWsdd7d0.jpg?size=200x269&quality=96&sign=d894200de41d51167b020b7cdaed201f&type=album)
 
-## Contacts:
+## Contact Information:
 
 **TG**: @anastasia_kiwi
 
@@ -76,3 +76,9 @@ public class Fibonacci
 **MTUCI**, 2023
 
 Information systems and technologies (Bachelor’s degree)
+
+## Language Proficiency:
+
+- English - C2 (Cambridge English Certificate, 2019)
+- Japanese - N3
+- German - A2
